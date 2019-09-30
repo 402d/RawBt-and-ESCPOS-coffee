@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RawBt and ESCPOS-COFFEE</string>
+    <string name="dialog_title">RawBT printer driver is missed</string>
+    <string name="dialog_message">To implement the functions of printing on a thermal printer, a driver is required. Press the button to open Google Play app and read more.</string>
+    <string name="btn_install">Open</string>
+    <string name="license"><![CDATA[APP SOURCE CODE\nhttps://github.com/402d/RawBt-and-ESCPOS-coffee\nCopyright 2019, 402d\nThe Unlicense\nhttp://unlicense.org\n\nOPEN SOURCE LICENSE\n\n1.escpos-coffee\nhttps://github.com/anastaciocintra/escpos-coffee\nCopyright (c) 2019 Marco Antonio Anastacio Cintra <anastaciocintra@gmail.com>\nMIT License\n\n]]></string>
+</resources>
