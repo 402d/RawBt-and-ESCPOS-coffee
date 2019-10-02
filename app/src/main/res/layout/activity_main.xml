@@ -19,15 +19,89 @@
             android:id="@+id/test1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Hello, world"
-            android:onClick="test1"
+            android:text="Hello, world"
+            android:onClick="test_Hello"
             />
+
+
         <Button
-            android:id="@+id/test2"
+            android:id="@+id/test02"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="2. Receipt"
-            android:onClick="test2"
+            android:text="Barcode"
+            android:onClick="test_Barcode"
+            />
+
+        <Button
+            android:id="@+id/test03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[-] BitImage"
+            android:onClick="test_BitImage"
+            />
+
+        <Button
+            android:id="@+id/test04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CodeTable"
+            android:onClick="test_CodeTable"
+            />
+
+        <Button
+            android:id="@+id/test05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[-] Dithering"
+            android:onClick="test_Dithering"
+            />
+
+        <Button
+            android:id="@+id/test01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get start"
+            android:onClick="test_Getstart"
+            />
+
+        <Button
+            android:id="@+id/test06"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[-] Graphics"
+            android:onClick="test_Graphics"
+            />
+
+        <Button
+            android:id="@+id/test07"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pulsepin"
+            android:onClick="test_Pulsepin"
+            />
+
+        <Button
+            android:id="@+id/test08"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[-] Raster image"
+            android:onClick="test_RasterImage"
+            />
+
+        <Button
+            android:id="@+id/test09"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Text style"
+            android:onClick="test_TextStyle"
+            />
+
+        <Button
+            android:id="@+id/test10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Text style. for 58mm width"
+            android:onClick="test_TextStyle58mm"
             />
 
         <TextView
